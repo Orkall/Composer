@@ -6,5 +6,7 @@
             "email": "sebastien.petit59@laposte.net"
         }
     ],
-    "require": {}
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
 }
