@@ -1,0 +1,9 @@
+<?php
+
+
+namespace src\Wcs;
+class Hello {
+    public function talk() {
+        return "Hello World";
+    }
+}

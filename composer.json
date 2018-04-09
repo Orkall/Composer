@@ -1,0 +1,10 @@
+{
+    "name": "sebastien/composer",
+    "authors": [
+        {
+            "name": "Sebastien Petit",
+            "email": "sebastien.petit59@laposte.net"
+        }
+    ],
+    "require": {}
+}
